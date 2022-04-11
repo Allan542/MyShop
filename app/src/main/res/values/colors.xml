@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black2">#2C2B2B</color>
+    <color name="white2">#E3E0E0</color>
+    <color name="corBotao">#2868EA</color>
+    <color name="fundo">#E1DFDF</color>
+    <color name="barra">#20588d</color>
+    <color name="transparente">#00FFFFFF</color>
+    <color name="fundo_progress">#70F4E5E5</color>
+</resources>
