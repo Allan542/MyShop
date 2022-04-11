@@ -57,7 +57,7 @@ public class PerfilActivity extends AppCompatActivity {
         Txt_Nome_Perfil = findViewById(R.id.txt_Nome_Perfil);
         Txt_Email_Perfil = findViewById(R.id.txt_Email_Perfil);
         Txt_Telefone_Perfil = findViewById(R.id.txt_Telefone_Perfil);
-        Txt_Documento_Perfil = findViewById(R.id.txt_Cpf_Perfil);
+        Txt_Documento_Perfil = findViewById(R.id.txt_Documento_Perfil);
         Edt_AtualizaEmail_Perfil = findViewById(R.id.edt_AtualizaEmail_Perfil);
         Edt_AtualizaTelefone_Perfil = findViewById(R.id.edt_AtualizaTelefone_Perfil);
         Edt_AtualizaCep_Perfil = findViewById(R.id.edt_AtualizaCep_Perfil);
