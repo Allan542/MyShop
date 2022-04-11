@@ -58,7 +58,7 @@ public class ProdutosCadastradosActivity extends AppCompatActivity {
 
         // Produto 1
         Img_Produto1_ProdutosCadastrados = findViewById(R.id.img_Produto1_ProdutosCadastrados);
-        Txt_InformacoesProduto1_ProdutosCadastrados = findViewById(R.id.txt_Informacoes_Produto1_ProdutosCadastrados);
+        Txt_InformacoesProduto1_ProdutosCadastrados = findViewById(R.id.txt_InformacoesProduto1_ProdutosCadastrados);
 
         // Produto 2
         Img_Produto2_ProdutosCadastrados = findViewById(R.id.img_Produto2_ProdutosCadastrados);

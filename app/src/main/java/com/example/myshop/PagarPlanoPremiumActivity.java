@@ -45,7 +45,7 @@ public class PagarPlanoPremiumActivity extends AppCompatActivity {
         Btn_Pagar_PagarPlanoPremium = findViewById(R.id.btn_Pagar_PagarPlanoPremium);
 
         // Conteúdo
-        PgrsBar_Carregar_PagarPlanoPremium = findViewById(R.id.pgrsbarCarregarPagarPlanoPremium);
+        PgrsBar_Carregar_PagarPlanoPremium = findViewById(R.id.pgrsbar_Carregar_PagarPlanoPremium);
     }
 
     private void eventoClique() {

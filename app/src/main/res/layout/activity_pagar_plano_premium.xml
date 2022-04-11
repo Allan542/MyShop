@@ -97,7 +97,7 @@
         app:layout_constraintVertical_bias="0.725" />
 
     <ProgressBar
-        android:id="@+id/pgrsbarCarregarPagarPlanoPremium"
+        android:id="@+id/pgrsbar_Carregar_PagarPlanoPremium"
         style="?android:attr/progressBarStyle"
         android:layout_width="0dp"
         android:layout_height="0dp"
